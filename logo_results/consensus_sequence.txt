@@ -1,0 +1,28 @@
+Consensus sequence (positions 1-24):
+MPDLSVLLLSLSGTGGGSSGGTRL
+
+Position-by-position breakdown:
+Position 1: M (1.000)
+Position 2: P (0.198)
+Position 3: D (0.132)
+Position 4: L (0.121)
+Position 5: S (0.143)
+Position 6: V (0.132)
+Position 7: L (0.165)
+Position 8: L (0.154)
+Position 9: L (0.187)
+Position 10: S (0.121)
+Position 11: L (0.132)
+Position 12: S (0.132)
+Position 13: G (0.143)
+Position 14: T (0.110)
+Position 15: G (0.231)
+Position 16: G (0.121)
+Position 17: G (0.121)
+Position 18: S (0.143)
+Position 19: S (0.121)
+Position 20: G (0.143)
+Position 21: G (0.132)
+Position 22: T (0.099)
+Position 23: R (0.099)
+Position 24: L (0.165)

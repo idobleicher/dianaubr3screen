@@ -6,3 +6,4 @@ scipy>=1.9.0
 biopython>=1.80
 openpyxl>=3.0.0
 xlrd>=2.0.0
+logomaker>=0.8

@@ -1,0 +1,247 @@
+================================================================================
+UBR3 ENRICHMENT ANALYSIS SUMMARY (Positions 2-24)
+================================================================================
+
+TOP ENRICHED AMINO ACIDS BY POSITION:
+--------------------------------------------------------------------------------
+
+Position 2:
+  P: 0.198 (hits) vs 0.052 (screen)
+      Enrichment: 3.78x (log2: 1.92)
+  G: 0.165 (hits) vs 0.076 (screen)
+      Enrichment: 2.17x (log2: 1.11)
+  T: 0.077 (hits) vs 0.047 (screen)
+      Enrichment: 1.63x (log2: 0.71)
+
+Position 3:
+  D: 0.132 (hits) vs 0.045 (screen)
+      Enrichment: 2.86x (log2: 1.52)
+  E: 0.132 (hits) vs 0.066 (screen)
+      Enrichment: 1.97x (log2: 0.98)
+  T: 0.088 (hits) vs 0.057 (screen)
+      Enrichment: 1.54x (log2: 0.62)
+
+Position 4:
+  Y: 0.077 (hits) vs 0.017 (screen)
+      Enrichment: 4.27x (log2: 2.09)
+  I: 0.055 (hits) vs 0.029 (screen)
+      Enrichment: 1.85x (log2: 0.89)
+  R: 0.121 (hits) vs 0.071 (screen)
+      Enrichment: 1.70x (log2: 0.77)
+
+Position 5:
+  I: 0.066 (hits) vs 0.032 (screen)
+      Enrichment: 2.04x (log2: 1.03)
+  C: 0.044 (hits) vs 0.023 (screen)
+      Enrichment: 1.89x (log2: 0.92)
+  D: 0.066 (hits) vs 0.037 (screen)
+      Enrichment: 1.74x (log2: 0.80)
+
+Position 6:
+  V: 0.132 (hits) vs 0.059 (screen)
+      Enrichment: 2.22x (log2: 1.15)
+  F: 0.066 (hits) vs 0.032 (screen)
+      Enrichment: 2.04x (log2: 1.03)
+  H: 0.033 (hits) vs 0.018 (screen)
+      Enrichment: 1.82x (log2: 0.87)
+
+Position 7:
+  R: 0.154 (hits) vs 0.071 (screen)
+      Enrichment: 2.15x (log2: 1.10)
+  C: 0.044 (hits) vs 0.023 (screen)
+      Enrichment: 1.89x (log2: 0.92)
+  M: 0.033 (hits) vs 0.021 (screen)
+      Enrichment: 1.56x (log2: 0.64)
+
+Position 8:
+  R: 0.154 (hits) vs 0.068 (screen)
+      Enrichment: 2.26x (log2: 1.17)
+  V: 0.110 (hits) vs 0.063 (screen)
+      Enrichment: 1.73x (log2: 0.79)
+  G: 0.099 (hits) vs 0.069 (screen)
+      Enrichment: 1.43x (log2: 0.51)
+
+Position 9:
+  H: 0.044 (hits) vs 0.018 (screen)
+      Enrichment: 2.38x (log2: 1.25)
+  V: 0.099 (hits) vs 0.063 (screen)
+      Enrichment: 1.55x (log2: 0.63)
+  M: 0.022 (hits) vs 0.017 (screen)
+      Enrichment: 1.31x (log2: 0.39)
+
+Position 10:
+  F: 0.066 (hits) vs 0.037 (screen)
+      Enrichment: 1.76x (log2: 0.81)
+  W: 0.033 (hits) vs 0.019 (screen)
+      Enrichment: 1.70x (log2: 0.76)
+  D: 0.066 (hits) vs 0.042 (screen)
+      Enrichment: 1.56x (log2: 0.64)
+
+Position 11:
+  N: 0.044 (hits) vs 0.023 (screen)
+      Enrichment: 1.86x (log2: 0.90)
+  F: 0.066 (hits) vs 0.036 (screen)
+      Enrichment: 1.81x (log2: 0.86)
+  V: 0.099 (hits) vs 0.067 (screen)
+      Enrichment: 1.47x (log2: 0.55)
+
+Position 12:
+  M: 0.044 (hits) vs 0.018 (screen)
+      Enrichment: 2.31x (log2: 1.21)
+  Q: 0.088 (hits) vs 0.038 (screen)
+      Enrichment: 2.26x (log2: 1.17)
+  F: 0.066 (hits) vs 0.035 (screen)
+      Enrichment: 1.88x (log2: 0.91)
+
+Position 13:
+  R: 0.143 (hits) vs 0.059 (screen)
+      Enrichment: 2.38x (log2: 1.25)
+  T: 0.088 (hits) vs 0.043 (screen)
+      Enrichment: 2.01x (log2: 1.01)
+  G: 0.143 (hits) vs 0.075 (screen)
+      Enrichment: 1.90x (log2: 0.92)
+
+Position 14:
+  T: 0.110 (hits) vs 0.047 (screen)
+      Enrichment: 2.29x (log2: 1.19)
+  F: 0.066 (hits) vs 0.034 (screen)
+      Enrichment: 1.89x (log2: 0.92)
+  H: 0.033 (hits) vs 0.020 (screen)
+      Enrichment: 1.65x (log2: 0.72)
+
+Position 15:
+  G: 0.231 (hits) vs 0.078 (screen)
+      Enrichment: 2.92x (log2: 1.54)
+  Y: 0.033 (hits) vs 0.020 (screen)
+      Enrichment: 1.65x (log2: 0.72)
+  P: 0.088 (hits) vs 0.062 (screen)
+      Enrichment: 1.40x (log2: 0.49)
+
+Position 16:
+  M: 0.044 (hits) vs 0.018 (screen)
+      Enrichment: 2.42x (log2: 1.28)
+  G: 0.121 (hits) vs 0.076 (screen)
+      Enrichment: 1.59x (log2: 0.67)
+  I: 0.055 (hits) vs 0.035 (screen)
+      Enrichment: 1.57x (log2: 0.65)
+
+Position 17:
+  H: 0.066 (hits) vs 0.022 (screen)
+      Enrichment: 2.92x (log2: 1.55)
+  R: 0.110 (hits) vs 0.058 (screen)
+      Enrichment: 1.87x (log2: 0.90)
+  G: 0.121 (hits) vs 0.078 (screen)
+      Enrichment: 1.53x (log2: 0.62)
+
+Position 18:
+  T: 0.088 (hits) vs 0.047 (screen)
+      Enrichment: 1.86x (log2: 0.89)
+  G: 0.132 (hits) vs 0.077 (screen)
+      Enrichment: 1.71x (log2: 0.77)
+  S: 0.143 (hits) vs 0.084 (screen)
+      Enrichment: 1.69x (log2: 0.76)
+
+Position 19:
+  Y: 0.044 (hits) vs 0.020 (screen)
+      Enrichment: 2.17x (log2: 1.12)
+  T: 0.077 (hits) vs 0.046 (screen)
+      Enrichment: 1.65x (log2: 0.72)
+  H: 0.033 (hits) vs 0.020 (screen)
+      Enrichment: 1.59x (log2: 0.67)
+
+Position 20:
+  G: 0.143 (hits) vs 0.076 (screen)
+      Enrichment: 1.86x (log2: 0.89)
+  V: 0.121 (hits) vs 0.066 (screen)
+      Enrichment: 1.82x (log2: 0.87)
+  C: 0.044 (hits) vs 0.026 (screen)
+      Enrichment: 1.67x (log2: 0.74)
+
+Position 21:
+  R: 0.132 (hits) vs 0.059 (screen)
+      Enrichment: 2.23x (log2: 1.16)
+  M: 0.033 (hits) vs 0.018 (screen)
+      Enrichment: 1.78x (log2: 0.83)
+  G: 0.132 (hits) vs 0.081 (screen)
+      Enrichment: 1.61x (log2: 0.69)
+
+Position 22:
+  I: 0.077 (hits) vs 0.033 (screen)
+      Enrichment: 2.28x (log2: 1.19)
+  N: 0.055 (hits) vs 0.025 (screen)
+      Enrichment: 2.19x (log2: 1.13)
+  T: 0.099 (hits) vs 0.048 (screen)
+      Enrichment: 2.03x (log2: 1.02)
+
+Position 23:
+  M: 0.055 (hits) vs 0.016 (screen)
+      Enrichment: 3.27x (log2: 1.71)
+  I: 0.077 (hits) vs 0.034 (screen)
+      Enrichment: 2.23x (log2: 1.16)
+  R: 0.099 (hits) vs 0.062 (screen)
+      Enrichment: 1.59x (log2: 0.67)
+
+Position 24:
+  Y: 0.044 (hits) vs 0.022 (screen)
+      Enrichment: 1.93x (log2: 0.95)
+  M: 0.033 (hits) vs 0.017 (screen)
+      Enrichment: 1.89x (log2: 0.91)
+  Q: 0.088 (hits) vs 0.047 (screen)
+      Enrichment: 1.84x (log2: 0.88)
+
+================================================================================
+MOST DISCRIMINATING POSITIONS:
+--------------------------------------------------------------------------------
+
+1. Position 2 (Discrimination Score: 0.863)
+   Top enriched: P (19.8% in hits, 3.78x enrichment)
+
+2. Position 12 (Discrimination Score: 0.714)
+   Top enriched: M (4.4% in hits, 2.31x enrichment)
+
+3. Position 3 (Discrimination Score: 0.687)
+   Top enriched: D (13.2% in hits, 2.86x enrichment)
+
+4. Position 15 (Discrimination Score: 0.679)
+   Top enriched: G (23.1% in hits, 2.92x enrichment)
+
+5. Position 6 (Discrimination Score: 0.678)
+   Top enriched: V (13.2% in hits, 2.22x enrichment)
+
+6. Position 13 (Discrimination Score: 0.672)
+   Top enriched: R (14.3% in hits, 2.38x enrichment)
+
+7. Position 22 (Discrimination Score: 0.629)
+   Top enriched: I (7.7% in hits, 2.28x enrichment)
+
+8. Position 18 (Discrimination Score: 0.622)
+   Top enriched: T (8.8% in hits, 1.86x enrichment)
+
+9. Position 4 (Discrimination Score: 0.611)
+   Top enriched: Y (7.7% in hits, 4.27x enrichment)
+
+10. Position 5 (Discrimination Score: 0.604)
+   Top enriched: I (6.6% in hits, 2.04x enrichment)
+
+================================================================================
+KEY FINDINGS:
+--------------------------------------------------------------------------------
+
+1. STRUCTURAL FEATURES:
+   - Proline at position 2: 19.8% (3.78x)
+
+2. GLYCINE-RICH FLEXIBLE REGION:
+   - Position 13: 14.3% glycine (1.90x enrichment)
+   - Position 15: 23.1% glycine (2.92x enrichment)
+   - Position 16: 12.1% glycine (1.59x enrichment)
+   - Position 17: 12.1% glycine (1.53x enrichment)
+   - Position 18: 13.2% glycine (1.71x enrichment)
+   - Position 20: 14.3% glycine (1.86x enrichment)
+   - Position 21: 13.2% glycine (1.61x enrichment)
+
+3. CHARGED RESIDUES:
+   - K: 4.30% (hits) vs 4.49% (screen) = 0.86x
+   - D: 4.30% (hits) vs 4.20% (screen) = 0.84x
+   - E: 6.55% (hits) vs 6.42% (screen) = 0.93x
+
+================================================================================
