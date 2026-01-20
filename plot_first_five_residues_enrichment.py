@@ -47,10 +47,20 @@ for pos in positions:
     hits_counts = (hits_freq * n_hits).round().astype(int)
     screen_counts = (screen_freq * n_screen).round().astype(int)
     
-    # Find top 5 amino acids in hits
-    top_aas = hits_freq.nlargest(5).index.tolist()
+    # Calculate enrichment for ALL amino acids
+    pseudocount = 0.001
+    enrichments = {}
+    for aa in hits_freq.index:
+        hits_f = hits_freq[aa]
+        screen_f = screen_freq[aa]
+        enrichment = (hits_f + pseudocount) / (screen_f + pseudocount)
+        enrichments[aa] = enrichment
     
-    print(f"\nTop 5 amino acids at position {pos}:")
+    # Find top 5 amino acids by ENRICHMENT (not frequency!)
+    enrichment_series = pd.Series(enrichments)
+    top_aas = enrichment_series.nlargest(5).index.tolist()
+    
+    print(f"\nTop 5 amino acids by ENRICHMENT at position {pos}:")
     
     for aa in top_aas:
         hits_count = hits_counts[aa]
@@ -58,9 +68,8 @@ for pos in positions:
         hits_f = hits_freq[aa]
         screen_f = screen_freq[aa]
         
-        # Calculate enrichment
-        pseudocount = 0.001
-        enrichment = (hits_f + pseudocount) / (screen_f + pseudocount)
+        # Use pre-calculated enrichment
+        enrichment = enrichments[aa]
         log2_enr = np.log2(enrichment)
         
         # Fisher's exact test for significance
